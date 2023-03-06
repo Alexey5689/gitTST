@@ -1,0 +1,3 @@
+function feature(){
+    alert("feature");
+}
